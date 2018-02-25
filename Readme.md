@@ -1,3 +1,5 @@
 Curso Git
 
-Modificando o arqquivo.
+Modificando o arquivo.
+
+Edivaldo Borges.
